@@ -1,16 +1,9 @@
 # currency_converter
 
-A new Flutter project.
+Currency converter using Flutter and API
+ 
+ 1- +170 currency
+ 2- chart between two currencies between the first day in the current year and today
+ 
+ https://user-images.githubusercontent.com/63169818/176945841-ea497ba4-15bb-4a39-ade0-7abe7447b744.mp4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
